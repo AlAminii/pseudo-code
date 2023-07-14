@@ -1,0 +1,42 @@
+.swim-container {}
+
+/* .box {
+ 
+    width: 200px;
+} */
+
+/* .ring {
+
+    position: relative;
+    right: -20px;
+    top: 70px;
+} */
+/* .ring{
+    position: absolute;
+    
+} */
+
+.box{
+    position: relative;
+}
+.boy{
+    z-index: 10;
+}
+
+.ring{
+    
+    top: -70px;
+    z-index: 5;
+}
+/* .ring{
+    z-index: 1;
+} */
+.water{
+    top: -155px;
+}
+h3::after{
+
+}
+p::first-letter{
+   font-size: 3em;
+}
